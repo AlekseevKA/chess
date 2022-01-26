@@ -8,3 +8,4 @@ C:\Users\Kornelius\source\repos\chess\chess\bin\Debug\chess.exe
 C:\Users\Kornelius\source\repos\chess\chess\bin\Debug\chess.pdb
 C:\Users\Kornelius\source\repos\chess\chess\obj\Debug\chess.exe
 C:\Users\Kornelius\source\repos\chess\chess\obj\Debug\chess.pdb
+C:\Users\Kornelius\source\repos\chess\chess\obj\Debug\chess.Resource1.resources
